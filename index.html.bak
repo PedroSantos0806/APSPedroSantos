@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title> SUSTENTABILIDADE </title>
+		<meta charset="utf=8">
+		<link rel="stylesheet" href="C:\Users\pedro.santos\OneDrive - Alvarez and Marsal\Desktop\APS\CSS\styles.CSS">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300&display=swap">
+	</head>
+	
+		<body>
+		
+		<main> <!--Main text in website-->
+			<div class="logo">
+				<img src="C:\Users\pedro.santos\OneDrive - Alvarez and Marsal\Desktop\APS\imagens\logo.jpg" alt="Logo site" width="20%" height="100%"> <!--put a image in main text-->
+			</div>
+				<h1 class="manchete" style="font-size: 2rem; color: #ff0000">Sustentabilidade</h1> <!--title of the main text-->
+				<h2 class="headline" style="font-size: 1rem; color: #ff0000">Mostrando como podemos ter um mundo mais sustentável</h2> <!--Subtitle of the main text-->
+		</main>		
+		
+				<article> <!--Second content-->
+		<h1 style="font-size: 2rem; color: #FFFFFF">Falando sobre sustentabilidade</h1> <!--title of the second content-->
+		<h2 style="font-size: 1rem; color: #FFFFFF"> O que é sustentabilidade?</h2>
+		<p></b>Sustentabilidade é utilizar os recursos que temos disponíveis de forma racional e consciente, sem comprometer a sua disponibilidade para as gerações futuras, ou seja, garantindo a sua preservação.</b></p> <!--subtitle of the second content-->
+			<figure> <!--start of the image-->
+				<img src="C:\Users\pedro.santos\OneDrive - Alvarez and Marsal\Desktop\Site Robo Otto\imagens\tela2.JPEG" alt="Explosão no espaço" width="20%" height="20%"><!--put a image-->
+			</figure> <!--end of the image-->
+		</article><!--End of the second content-->
+		
+		<div class="Astronomy"> <!--Start of -->
+			<h2 style="text-align: center; font-size: 2rem">Clique no link abaixo para verificar os pontos de coleta proximo a sua região!</h2>
+			<p>Confira <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">AQUI</a>.</p>
+		
+		</body>
